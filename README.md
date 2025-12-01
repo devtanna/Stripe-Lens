@@ -23,4 +23,4 @@ Contributions are welcome! Feel free to open issues or submit PRs.
 
 ## License
 
-Open source
+MIT
