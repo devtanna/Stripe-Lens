@@ -1,0 +1,5 @@
+{
+  "name": "Stripe Analytics Dashboard",
+  "description": "A clean, modern React dashboard to visualize cumulative product revenue and Stripe fees. Includes a demo mode and real API integration logic.",
+  "requestFramePermissions": []
+}
